@@ -1,7 +1,7 @@
 Project description:
 -----Database 'univr'-------
 Database 'University'
-The projects was created by using Python 3.8, Sqlite3 and Dbdesigner
+The project was created by using Python 3.8, Sqlite3 and Dbdesigner
 
 1) univr.db - DatabaseFile (Table: Faculty, FGroup, Student, HR_record, Exam, Exam_record)
 2) insert_data.sql - a data for The Database
